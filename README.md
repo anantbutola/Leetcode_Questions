@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A personal collection of LeetCode problem solutions written in Java.
+Hi, I'm **Anant Butola** — a CS student working through LeetCode to sharpen my problem-solving skills, prep for technical interviews, and get more comfortable with Java. This repo is where I track my progress and keep solutions I'm proud of.
 
 ## Language
 
